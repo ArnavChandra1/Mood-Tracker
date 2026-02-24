@@ -8,15 +8,11 @@ Mood Tracker allows users to record emotions and view a history of logged entrie
 
 ---
 
-## Demo
+## Preview & Demo
 
-🎥 60-second walkthrough of the app:
-
-
+<img width="194" height="480" alt="Screenshot_20260224_163328" src="https://github.com/user-attachments/assets/f49d7af0-4dd5-4eb9-b361-86055151f137" />
 
 https://github.com/user-attachments/assets/d6045656-bcc0-40fa-95b4-affbc48d0ac7
-
-<img width="1194" height="2480" alt="Screenshot_20260224_163328" src="https://github.com/user-attachments/assets/f49d7af0-4dd5-4eb9-b361-86055151f137" />
 
 ---
 
