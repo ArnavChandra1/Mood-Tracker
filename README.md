@@ -38,16 +38,6 @@ https://github.com/user-attachments/assets/d6045656-bcc0-40fa-95b4-affbc48d0ac7
 - Local file storage
 
 ---
-## Project Structure
-
-```
-app/
- ├── src/main/java/...      # Activities & core logic
- ├── src/main/res/layout/   # XML layouts
- ├── AndroidManifest.xml
-```
-
----
 
 ## How to Run
 
@@ -64,6 +54,6 @@ app/
 ## Future Improvements
 
 - Cloud synchronization  
-- Emotion trend visualization  
-- Material Design 3 UI upgrade  
+- A summary or trend of emotions with visualization  
+- UI upgrade   
 - Local database integration using Room  
